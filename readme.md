@@ -1,8 +1,11 @@
-# Hello! This is my homework on Metaclass react course.
+# Lalasia-E-commerce
 
-A small online store written in React with Typescript
+Проект интернет-магазина, с использованием бесплатного открытого API.
 
-## Usage:
+API: https://fakeapi.platzi.com/
+Стек: HTML, CSS, SCSS, JavaScript, TypeScript, React, Mobx, Webpack.
 
-**1. install deps: `yarn`** \
-**2. start project: `yarn dev`**
+## Инструкция по запуску проета:
+
+**1. установить зависимости: `yarn`** \
+**2. запустить проект: `yarn dev`**
